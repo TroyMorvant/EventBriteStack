@@ -1,7 +1,16 @@
 {
   "name": "function",
+  "description": "",
   "version": "1.0.0",
+  "main": "app.js",
+  "author": "",
+  "scripts": {},
+  "bugs": {},
+  "homepage": "",
   "dependencies": {
-    "aws-sdk": "~2"
-  }
+    "aws-sdk": "~2",
+    "jsonwebtoken": "^8.1.1",
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {}
 }
